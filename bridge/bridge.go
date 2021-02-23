@@ -7,9 +7,11 @@ import (
 )
 
 func Configure() {
-	ConfigureWith(log.GetGlobalLogger())
+	ConfigureWith(log.GetRootLogger())
 }
 
 func ConfigureWith(logger log.Logger) {
-	klog.SetLogger(logr.CreateFor(logger))
+	bridge := logr.CreateFor(logger)
+	bridge.CallerDepth = 4 + 1 // +1 for the workaround
+	klog.SetLogger(&workaround{bridge})
 }

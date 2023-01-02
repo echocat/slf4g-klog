@@ -8,8 +8,8 @@ type workaround struct {
 	*logr.Bridge
 }
 
-func (instance *workaround) Info(msg string, keysAndValues ...interface{}) {
-	instance.Bridge.Info(msg, instance.fixKeysAndValuesIfRequired(keysAndValues)...)
+func (instance *workaround) Info(vl int, msg string, keysAndValues ...interface{}) {
+	instance.Bridge.Info(vl, msg, instance.fixKeysAndValuesIfRequired(keysAndValues)...)
 }
 
 func (instance *workaround) Error(err error, msg string, keysAndValues ...interface{}) {

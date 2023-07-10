@@ -1,10 +1,8 @@
-github.com/echocat/slf4g v1.0.0/go.mod h1:h3PyXsLZEun57/b4pISjYvsbrCDHIyuBcJNQw+e65jk=
-github.com/echocat/slf4g v1.4.2 h1:DT66E4tFnK9wUdTX7AbO0PyffhmRDc40vg6JSlj32KE=
-github.com/echocat/slf4g v1.4.2/go.mod h1:h3PyXsLZEun57/b4pISjYvsbrCDHIyuBcJNQw+e65jk=
-github.com/echocat/slf4g-logr v1.0.0 h1:IQ632GT3thKHTMfWlcAetFdb3wTrlJu4X2RSfK9D1K0=
-github.com/echocat/slf4g-logr v1.0.0/go.mod h1:zHnMosxZ6DMk4hpvffsz0kKkQURsLJgqxwwqAJmbdoY=
+github.com/echocat/slf4g v1.5.0 h1:KFd+9tyHY1n+SCQ1gVgc571rqdVdNHa2Zg1+/o05n3c=
+github.com/echocat/slf4g v1.5.0/go.mod h1:h3PyXsLZEun57/b4pISjYvsbrCDHIyuBcJNQw+e65jk=
+github.com/echocat/slf4g-logr v1.5.0 h1:39OY3y/GSlvhfxlWOZMteY+ZDnsWlourUu08EpX/sLE=
+github.com/echocat/slf4g-logr v1.5.0/go.mod h1:1DgeHYZegLBBueaByK7SkJIl1+NlEYaF8EqDfk4lYQw=
 github.com/go-logr/logr v1.2.0/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
-github.com/go-logr/logr v1.2.3/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
 github.com/go-logr/logr v1.2.4 h1:g01GSCwiDw2xSZfjJ2/T9M+S6pFdcNtFYsp+Y43HYDQ=
 github.com/go-logr/logr v1.2.4/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
 k8s.io/klog/v2 v2.100.1 h1:7WCHKK6K8fNhTqfBhISHQ97KrnJNFZMcQvKp7gP/tmg=

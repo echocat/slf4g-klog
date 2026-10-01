@@ -1,9 +1,7 @@
-github.com/echocat/slf4g v1.8.3/go.mod h1:YvF/d1TcPvT+/xiHStLHPI4xPT1GGeEmPczn2MSljNA=
 github.com/echocat/slf4g v1.9.0 h1:LtQP6MlMsDYIaGtvY0w1PdNAnssmLlVesg/GRxVok7A=
 github.com/echocat/slf4g v1.9.0/go.mod h1:WhUEWD/lCkvO5jYIXV7Y4Iaam2t2rKfRHUJf73ef3TI=
-github.com/echocat/slf4g-logr v1.8.3 h1:T0H6OKHA3pi3Y4pVABXctx6wQbmREitJg2BfVYsByHc=
-github.com/echocat/slf4g-logr v1.8.3/go.mod h1:dfWLxUVDjteITMzQu8nHiy7SXNM2PmxKuu5fbsOYtAE=
-github.com/go-logr/logr v1.4.3/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
+github.com/echocat/slf4g-logr v1.9.0 h1:qM/fnNWQ0Ep0Qp7anHMguSjfLF+FyR4K9f6E6gWVZpc=
+github.com/echocat/slf4g-logr v1.9.0/go.mod h1:lbEgS40BMmMwhO1fImujwTGDeu7T4KWT1JKCPGvOV1U=
 github.com/go-logr/logr v1.4.4 h1:tG4xh9yMsRCAiodLVTxyrkzSZ9+o0L1Kg/+cPVcbP/8=
 github.com/go-logr/logr v1.4.4/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
 k8s.io/klog/v2 v2.140.0 h1:Tf+J3AH7xnUzZyVVXhTgGhEKnFqye14aadWv7bzXdzc=
